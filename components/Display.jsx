@@ -1,4 +1,3 @@
-import { useEffect } from "react";
 import useClipboard from "react-use-clipboard";
 import SpeechRecognition, {
   useSpeechRecognition,
